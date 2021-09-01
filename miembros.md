@@ -12,10 +12,12 @@
 * QuickSilver
 * Scarlet Witch
 * Spider Woman
+* Hulk
 * Thor
 * Vision
 * Wasp
 * Antman
 * Nick Fury
+
 
 
