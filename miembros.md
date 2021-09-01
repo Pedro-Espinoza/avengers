@@ -13,7 +13,6 @@
 * Scarlet Witch
 * Spider Woman
 * Thor
-* Thanos
 * Vision
 * Wasp
 * Antman
